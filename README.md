@@ -58,8 +58,6 @@ Diagrammes de séquence : illustration des échanges entre les différents compo
 
 👥 Auteurs du projet
 -------------------------
-Oumaima Bourassi
-
-Hajar Bahnas
-
 Projet réalisé dans le cadre du Master Web Intelligence et Science des Données.
+Hajar Bahnas
+Oumaima Bourassi
